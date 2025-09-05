@@ -1,0 +1,18 @@
+.odd-numbers {
+    background-color: rgb(238, 156, 156);
+    font-family: "Verdana", "DejaVu Sans", sans-serif;
+}
+
+.tamaño {
+    font-size: 24px;
+}
+
+#segundo {
+    color: blue;
+    font-size: 36px;
+}
+
+#boldy {
+    background-color: rgb(34, 202, 34);
+    font-weight: bold;
+}
