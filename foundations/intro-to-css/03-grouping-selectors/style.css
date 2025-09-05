@@ -4,9 +4,10 @@
 }
 
 .primero {
-    
+    background-color: black;
+    color: white;
 }
 
 .segundo {
-
+    background-color: yellow;
 }
